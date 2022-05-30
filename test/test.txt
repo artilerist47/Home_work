@@ -1,5 +1,5 @@
 qwe
 asd
 zxc
-gyj
-это из гитхаба -> pull
+в гитхаб -> commit -> push
+из гитхаба -> pull
